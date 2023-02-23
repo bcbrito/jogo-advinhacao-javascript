@@ -16,3 +16,4 @@ Além de ser divertido, o jogo é uma ótima maneira de praticar conceitos bási
 
 Para jogar o jogo de adivinhação em #javascript, acesse seu site oficial em bcbrito.com.br. Divirta-se jogando e aprendendo programação ao mesmo tempo!
 
+https://bcbrito.com.br/jogo-de-adivinhacao-em-javascript-na-pratica/
